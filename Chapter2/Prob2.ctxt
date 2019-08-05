@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Prob2
+comment1.params=head
+comment1.target=int\ findLength(SinglyLinkedListNode)
+comment2.params=head\ k
+comment2.target=int\ returnKth(SinglyLinkedListNode,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

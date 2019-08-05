@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=SinglyLinkedListNode
+comment1.params=v\ n
+comment1.target=SinglyLinkedListNode(int,\ SinglyLinkedListNode)
+numComments=2

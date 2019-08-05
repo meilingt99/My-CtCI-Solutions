@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=FixedMultiStacks
+comment1.params=stackSize
+comment1.target=FixedMultiStacks(int)
+comment2.params=stackNum\ value
+comment2.target=void\ push(int,\ int)
+comment2.text=push
+comment3.params=stackNum
+comment3.target=int\ pop(int)
+comment3.text=pop
+comment4.params=stackNum
+comment4.target=int\ peek(int)
+comment4.text=peek
+comment5.params=stackNum
+comment5.target=boolean\ isEmpty(int)
+comment5.text=isEmpty
+comment6.params=stackNum
+comment6.target=boolean\ isFull(int)
+comment6.text=isFull
+comment7.params=stackNum
+comment7.target=int\ indexOfTop(int)
+comment7.text=indexOfTop
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
