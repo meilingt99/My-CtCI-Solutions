@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=MyNode
+comment1.params=n\ c\ v
+comment1.target=MyNode(java.lang.String,\ MyNode[],\ boolean)
+numComments=2
